@@ -38,7 +38,7 @@ Adaptez si besoin les identifiants dans
 ```java
 private static final String URL = "jdbc:mysql://localhost:3306/biblio_db?useSSL=false&serverTimezone=UTC";
 private static final String UTILISATEUR = "root";
-private static final String MOT_DE_PASSE = "root";
+private static final String MOT_DE_PASSE = "biblio2026";
 ```
 
 ## 3. Compiler et lancer
